@@ -108,8 +108,29 @@ print(fib_list)
 *Que valor tendría la variable fib_list si n=2?*
 
 >Si n = 2, entonces la variable fib_list tendrá el valor [0, 1]. Este valor se asigna en el bloque elif correspondiente cuando n = 2. La ejecución del programa no entra en el bloque else, por lo que la lista fib_list no se modifica.
+             
+*Pero si el usuario introduce n=2, cuando el usuario introduzca un n <3 la variable fib_list no estará definida y tendremos un error de ejecución*
 
+>Tienes razón, gracias por señalar mi error. Si el usuario ingresa n < 3, la variable fib_list no se definirá y se producirá una excepción de "NameError". 
+>
+> Para evitar esto, se puede colocar el código que depende de fib_list dentro del bloque else. Por ejemplo:
+```
+n = int(input())
+if n <= 0:
+    print("Por favor, ingresa un número positivo.")
+elif n == 1:
+    print([0])
+elif n == 2:
+    print([0, 1])
+else:
+    fib_list = [0, 1]
+    while len(fib_list) < n:
+        next_term = fib_list[-1] + fib_list[-2]
+        fib_list.append(next_term)
 
+    print(fib_list)
+
+```
 ## Generación de materiales para estudio
 
 ## Autoevaluación del aprendizaje
