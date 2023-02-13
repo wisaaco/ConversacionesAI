@@ -180,3 +180,23 @@
 > Dedicación: Un buen profesor debe ser dedicado a sus estudiantes y a su materia, y estar dispuesto a invertir tiempo y esfuerzo en su enseñanza.
 >
 > Estas actitudes son importantes para ayudar a los estudiantes a comprender y retener los conceptos de sistemas distribuidos y para promover un ambiente de aprendizaje positivo y motivador.
+
+**Según la ANECA, ¿Qué elementos debe contener una guía docente?**
+
+>La ANECA (Agencia Nacional de Evaluación de la Calidad y Acreditación) es una agencia española encargada de evaluar la calidad de los programas académicos y la investigación en el ámbito universitario. Según la ANECA, una guía docente debe incluir los siguientes elementos:>
+
+>Identificación de la asignatura: nombre, código, créditos, departamento y curso.
+>
+>Objetivos de la asignatura: los conocimientos, habilidades y competencias que se espera que el alumno adquiera al finalizar la asignatura.
+>
+>Contenidos teóricos y prácticos: una descripción detallada de los temas a tratar en la asignatura.
+>
+>Metodología: descripción de las técnicas de enseñanza y aprendizaje que se utilizarán.
+>
+>Evaluación: descripción de los criterios de evaluación y la ponderación de los diferentes elementos de la evaluación.
+>
+>Bibliografía: lista de las fuentes bibliográficas recomendadas para la asignatura.
+>
+>Actividades complementarias: descripción de las actividades complementarias a la docencia presencial que se recomiendan para mejorar el aprendizaje.
+>
+>Estos son los elementos básicos que debe incluir una guía docente según la ANECA, pero pueden haber otros elementos adicionales que dependen de la política académica de la universidad y de la naturaleza de la asignatura.
