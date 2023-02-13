@@ -1,6 +1,6 @@
 # Conversaciones con Asistentes de Inteligencia Artificial
 
-Este repositorio contiene las conversaciones matenidas para la realización del artículo:
+Este repositorio contiene las conversaciones mantenidas con chatbots IA  para la realización del artículo:
 ```bibtex
 @inproceedings{
 title={},
