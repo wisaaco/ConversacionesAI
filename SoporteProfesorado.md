@@ -2,9 +2,15 @@
 
 # Conversaciones: Soporte del profesorado
 
+## Elaboración de material didáctico
+
+## Elaboración de ejercicios y prácticas
+
+## Evaluación del alumnado
+
 ## Planificación de la docencia
 
-**P: En una asignatura sobre sistemas distribuidos que tiene una duración de 10 horas y  se imparte en la universidad ¿cómo planificarías 5 sesiones de 2 horas?**
+** En una asignatura sobre sistemas distribuidos que tiene una duración de 10 horas y  se imparte en la universidad ¿cómo planificarías 5 sesiones de 2 horas?**
 
 >Si la asignatura sobre sistemas distribuidos tiene una duración de 10 horas y se imparte en la universidad, aquí está una posible planificación de 5 sesiones de 2 horas:
 
