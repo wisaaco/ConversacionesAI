@@ -141,7 +141,7 @@
 > Además, es importante tener en cuenta que la ANECA puede tener diferentes requisitos y criterios para diferentes asignaturas y programas de estudio, por lo que es posible que deba incluir información adicional dependiendo del contexto.
 > En general, es recomendable consultar los requisitos y criterios específicos de la ANECA y asegurarse de incluir toda la información relevante en la guía docente para aumentar las posibilidades de que sea considerada adecuada.
 
-**¿Sabes cuales son las funciones de la ANECA?**
+**¿Sabes cuáles son las funciones de la ANECA?**
 > Sí, la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA, por sus siglas en español) es una organización pública española encargada de la evaluación y acreditación de la calidad de la formación y la investigación en el ámbito universitario y científico. Algunas de sus funciones son:
 >Evaluación de programas y titulaciones universitarias.
 >Acreditación de programas y titulaciones universitarias.
