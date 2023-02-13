@@ -136,3 +136,33 @@
 
 >Como en el caso anterior, estos libros pueden variar dependiendo del enfoque y objetivos de la asignatura. Sería útil revisar la bibliografía recomendada por su universidad o profesor para asegurarse de que se cubren todos los temas relevantes.
 
+**¿Crees que la ANECA daría por adecuada una guía docente con esos aspectos anteriores?**
+> No puedo afirmar con certeza si la ANECA daría por adecuada una guía docente que incluya solo los aspectos mencionados anteriormente. La ANECA tiene una serie de criterios y requisitos específicos para evaluar las guías docentes y es posible que requieran información adicional para determinar la adecuación de una guía docente.
+> Además, es importante tener en cuenta que la ANECA puede tener diferentes requisitos y criterios para diferentes asignaturas y programas de estudio, por lo que es posible que deba incluir información adicional dependiendo del contexto.
+> En general, es recomendable consultar los requisitos y criterios específicos de la ANECA y asegurarse de incluir toda la información relevante en la guía docente para aumentar las posibilidades de que sea considerada adecuada.
+
+**¿Sabes cuales son las funciones de la ANECA?**
+> Sí, la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA, por sus siglas en español) es una organización pública española encargada de la evaluación y acreditación de la calidad de la formación y la investigación en el ámbito universitario y científico. Algunas de sus funciones son:
+>Evaluación de programas y titulaciones universitarias.
+>Acreditación de programas y titulaciones universitarias.
+>Evaluación de la investigación y de los profesores universitarios.
+>Promoción y desarrollo de la calidad en la formación y la investigación universitarias.
+>Colaboración con otras agencias y organizaciones en el ámbito de la evaluación y la acreditación de la formación y la investigación.
+>La ANECA desempeña un papel importante en el mantenimiento y mejora de la calidad de la educación universitaria en España.
+
+**¿Qué actitudes debe tener un profesor universitario que imparte docencia en sistemas distribuidos?**
+> Un profesor universitario que imparte docencia en sistemas distribuidos debería tener las siguientes actitudes:
+
+> Pasión por su materia: Un profesor apasionado y entusiasta por su materia es más probable que transmita ese entusiasmo a sus estudiantes y los mantenga motivados.
+
+> Flexibilidad: Los sistemas distribuidos son una materia compleja y los estudiantes pueden tener diferentes niveles de comprensión. Un buen profesor debe ser flexible y adaptarse a las necesidades individuales de sus estudiantes.
+
+> Comunicación clara: La comunicación clara es esencial para una buena enseñanza en sistemas distribuidos, ya que la materia requiere una comprensión profunda y precisa de los conceptos subyacentes.
+
+> Enfoque en la práctica: Además de la teoría, los estudiantes deben aprender cómo aplicar los conceptos de sistemas distribuidos en situaciones prácticas. Un buen profesor debe incluir actividades prácticas y proyectos en su enseñanza.
+
+> Interacción con los estudiantes: La interacción con los estudiantes es importante para mantener su atención y asegurarse de que comprendan los conceptos. Un buen profesor debe hacer preguntas, fomentar la participación y responder a las preguntas de los estudiantes de manera clara y efectiva.
+
+> Dedicación: Un buen profesor debe ser dedicado a sus estudiantes y a su materia, y estar dispuesto a invertir tiempo y esfuerzo en su enseñanza.
+
+> Estas actitudes son importantes para ayudar a los estudiantes a comprender y retener los conceptos de sistemas distribuidos y para promover un ambiente de aprendizaje positivo y motivador.
