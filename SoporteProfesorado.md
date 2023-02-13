@@ -205,29 +205,29 @@
 
 > Claro, aquí tienes un ejemplo de una posible guía docente para una asignatura de Sistemas Distribuidos para un cuarto curso de Ingeniería Informática:> 
 >
-> I. INTRODUCCIÓN> 
+> I. INTRODUCCIÓN 
 >
 > Descripción de la asignatura: objetivos, contenidos, metodología, criterios de evaluación, etc.
 > Contextualización en el plan de estudios: relación con otras asignaturas, competencias a desarrollar, etc.
 >
-> II. CONTENIDOS> 
+> II. CONTENIDOS
 > Conceptos básicos de los sistemas distribuidos: arquitectura, sincronización, tolerancia a fallos, etc.
 > Algoritmos y protocolos de sincronización en sistemas distribuidos: relojes lógicos, algoritmos de elección de líderes, etc.
 > Técnicas de tolerancia a fallos en sistemas distribuidos: replicación, partición, etc.
 > Sistemas de mensajería y gestión de eventos en sistemas distribuidos: protocolos de mensajería, colas de mensajes, etc.
 > Aplicaciones y casos de uso de los sistemas distribuidos: servicios web distribuidos, sistemas de ficheros distribuidos, etc.
 >
-> III. METODOLOGÍA> 
+> III. METODOLOGÍA
 > Clases teóricas: presentación de los conceptos y teorías por parte del profesor.
 > Ejercicios y actividades prácticas: resolución de problemas y casos de estudio, desarrollo de pequeños proyectos, etc.
 > Trabajo individual y en grupo: estudio de la bibliografía y de las actividades prácticas, elaboración de trabajos y presentaciones.
 >
-> IV. EVALUACIÓN> 
+> IV. EVALUACIÓN
 > Examen escrito: evaluación de los conocimientos teóricos adquiridos durante el curso.
 > Trabajos y proyectos prácticos: evaluación de las habilidades y competencias desarrolladas durante las actividades prácticas.
 > Participación en clase y trabajo en grupo: evaluación de la asistencia, el interés y la implicación en el curso.
 >
-> V. BIBLIOGRAFÍA> 
+> V. BIBLIOGRAFÍA 
 > Libros de texto y manuales recomendados sobre sistemas distribuidos.
 > Artículos y estudios relevantes sobre el tema publicados en revistas y congresos especializados.
 > Documentación y recursos en línea relacionados con los sistemas distribuidos.
