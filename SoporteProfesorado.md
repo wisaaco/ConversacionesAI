@@ -200,3 +200,36 @@
 >Actividades complementarias: descripción de las actividades complementarias a la docencia presencial que se recomiendan para mejorar el aprendizaje.
 >
 >Estos son los elementos básicos que debe incluir una guía docente según la ANECA, pero pueden haber otros elementos adicionales que dependen de la política académica de la universidad y de la naturaleza de la asignatura.
+
+**¿Puedes elaborar una guía docente de una asignatura de llamada Sistema Distribuidos impartida en cuarto curso de Ingenería informática?**
+
+> Claro, aquí tienes un ejemplo de una posible guía docente para una asignatura de Sistemas Distribuidos para un cuarto curso de Ingeniería Informática:> 
+>
+> I. INTRODUCCIÓN> 
+>
+> Descripción de la asignatura: objetivos, contenidos, metodología, criterios de evaluación, etc.
+> Contextualización en el plan de estudios: relación con otras asignaturas, competencias a desarrollar, etc.
+>
+> II. CONTENIDOS> 
+> Conceptos básicos de los sistemas distribuidos: arquitectura, sincronización, tolerancia a fallos, etc.
+> Algoritmos y protocolos de sincronización en sistemas distribuidos: relojes lógicos, algoritmos de elección de líderes, etc.
+> Técnicas de tolerancia a fallos en sistemas distribuidos: replicación, partición, etc.
+> Sistemas de mensajería y gestión de eventos en sistemas distribuidos: protocolos de mensajería, colas de mensajes, etc.
+> Aplicaciones y casos de uso de los sistemas distribuidos: servicios web distribuidos, sistemas de ficheros distribuidos, etc.
+>
+> III. METODOLOGÍA> 
+> Clases teóricas: presentación de los conceptos y teorías por parte del profesor.
+> Ejercicios y actividades prácticas: resolución de problemas y casos de estudio, desarrollo de pequeños proyectos, etc.
+> Trabajo individual y en grupo: estudio de la bibliografía y de las actividades prácticas, elaboración de trabajos y presentaciones.
+>
+> IV. EVALUACIÓN> 
+> Examen escrito: evaluación de los conocimientos teóricos adquiridos durante el curso.
+> Trabajos y proyectos prácticos: evaluación de las habilidades y competencias desarrolladas durante las actividades prácticas.
+> Participación en clase y trabajo en grupo: evaluación de la asistencia, el interés y la implicación en el curso.
+>
+> V. BIBLIOGRAFÍA> 
+> Libros de texto y manuales recomendados sobre sistemas distribuidos.
+> Artículos y estudios relevantes sobre el tema publicados en revistas y congresos especializados.
+> Documentación y recursos en línea relacionados con los sistemas distribuidos.
+
+> Esta guía docente es solo un ejemplo y puede ser adaptada según las necesidades y requerim...
