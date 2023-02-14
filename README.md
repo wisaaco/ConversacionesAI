@@ -14,15 +14,15 @@ pages={-}
 
 ## Estructura
 
-- Soporte para el profesorado
-  - Elaboración de material didáctico
-  - Elaboración de ejercicios y prácticas
-  - Evaluación del alumnado
-  - Planificación de la docencia
+- Soporte para el profesorado (SP)
+  - [Elaboración de material didáctico](SP_ElaboracionMaterialDidactico.md)
+  - [Elaboración de ejercicios y prácticas](SP_ElaboracionEjerciciosPracticas.md)
+  - [Evaluación del alumnado](SP_EvaluacionAlumnado.md)
+  - [Planificación de la docencia](SP_PlanificacionDocencia.md)
   
-- Soporte para el alumno y su proceso de aprendizaje
-  - Ayuda en la redacción de informes técnicos
-  - Realización de actividades
-  - Generación de materiales para estudio
-  - Autoevaluación del aprendizaje
+- Soporte para el alumno y su proceso de aprendizaje (SA)
+  - [Ayuda en la redacción de informes técnicos](SA_AyudaRedaccionInformesTecnicos.md)
+  - [Realización de actividades](SA_RealizacionActividades.md)
+  - [Generación de materiales para estudio](SA_GeneracionMaterialesEstudio.md)
+  - [Autoevaluación del aprendizaje](SA_AutoevaluacionAprendizaje.md)
   
