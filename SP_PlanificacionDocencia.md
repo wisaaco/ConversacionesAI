@@ -1,12 +1,6 @@
 
-
 # Conversaciones: Soporte del profesorado
 
-## Elaboración de material didáctico
-
-## Elaboración de ejercicios y prácticas
-
-## Evaluación del alumnado
 
 ## Planificación de la docencia
 
