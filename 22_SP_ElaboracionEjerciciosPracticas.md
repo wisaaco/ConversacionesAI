@@ -1,6 +1,6 @@
 # Conversaciones: Soporte del profesorado
 
-## Elaboración de ejercicios y prácticas
+## 2.2 Elaboración de ejercicios y prácticas
 
 **Diseñame un modelo de datos para llevar a cabo la gestión de préstamos de libros de una biblioteca.**
 
