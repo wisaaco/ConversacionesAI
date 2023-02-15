@@ -1,6 +1,6 @@
 # Conversaciones: Soporte del profesorado
 
-## Elaboración de material didáctico
+## 2.1 Elaboración de material didáctico
 
 
 **En la docencia de sistemas distribuidos la gestión del tiempo es importante. Dada la siguiente información que otros puntos añadirías:  
