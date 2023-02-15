@@ -1,8 +1,8 @@
 # Conversaciones: Soporte para el alumno y su proceso de aprendizaje
 
-## Realización de actividades
+## 3.2 Realización de actividades
 
-**Es correcto el siguiente código? Me podrías explicar que trabajo realiza?**
+**¿Es correcto el siguiente código? Me podrías explicar que trabajo realiza?**
 ```
 n = int(input())
 if n <= 0:
