@@ -2,7 +2,7 @@
 # Conversaciones: Soporte del profesorado
 
 
-## Planificación de la docencia
+## 2.4 Planificación de la docencia
 
 **En una asignatura sobre sistemas distribuidos que tiene una duración de 10 horas y  se imparte en la universidad ¿cómo planificarías 5 sesiones de 2 horas?**
 
