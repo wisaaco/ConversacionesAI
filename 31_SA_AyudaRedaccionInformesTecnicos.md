@@ -1,6 +1,6 @@
 # Conversaciones: Soporte para el alumno y su proceso de aprendizaje
 
-## Ayuda en la redacción de informes técnicos
+## 3.1 Ayuda en la redacción de informes técnicos
 
 **¿Puedes realizar un informe técnico sobre el estado del arte de algoritmos de exclusión mutua en los sistemas distribuidos?**
 
