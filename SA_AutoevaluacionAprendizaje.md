@@ -16,10 +16,16 @@
 **¿Qué otros criterios me recomiendas para la evaluación de la metodología?**
 
 > Además de los criterios mencionados, se podría tener en cuenta lo siguiente para la evaluación de la metodología:
-> Coherencia y claridad en la presentación y estructuración de la información
-> Utilización de herramientas y técnicas apropiadas para el análisis de los datos
-> Uso de fuentes de información relevantes y actuales
-> Evaluación crítica de los resultados y la interpretación de los mismos
-> Consideración de factores relevantes, como la ethicalidad, la fiabilidad y la confiabilidad en la realización del trabajo
+> 
+> - Coherencia y claridad en la presentación y estructuración de la información
+> 
+> - Utilización de herramientas y técnicas apropiadas para el análisis de los datos
+> 
+> - Uso de fuentes de información relevantes y actuales
+> 
+> - Evaluación crítica de los resultados y la interpretación de los mismos
+> 
+> - Consideración de factores relevantes, como la ethicalidad, la fiabilidad y la confiabilidad en la realización del trabajo
+> 
 > Evaluación de la contribución del trabajo a la temática propuesta y a su avance.
 
