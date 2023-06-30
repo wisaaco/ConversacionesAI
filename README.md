@@ -3,10 +3,10 @@
 Este repositorio contiene las conversaciones mantenidas con chatbots IA  para la realización del artículo:
 ```bibtex
 @inproceedings{
-title={},
-authors="",
-booktitle={Pendiente},
-publisher={Pendiente},
+title={Reflexiones y perspectivas del uso de ChatGPT en la docencia del Grado en Ingeniería Informática},
+authors={Isaac Lera, Gabriel Moyà-Alcover, Carlos Guerrero, Antoni Jaume-i-Capó},
+booktitle={Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2023)},
+publisher={Asociación de Enseñantes Universitarios de la Informática (AENUI)},
 year={2023}, 
 pages={-}
 }
